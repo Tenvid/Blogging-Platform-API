@@ -7,7 +7,7 @@ This project is based on the [challenge](https://roadmap.sh/projects/blogging-pl
 
 This API is made for communicating with a Database that contains Blog Posts. Each post has a category and can have one or more tags. The api implements a Basic CRUD which allows user to interact with Database.
 
-## Teck stack
+## Tech stack
 - C# as programming language
 - PostgreSQL as database
 - Swagger for API docs
