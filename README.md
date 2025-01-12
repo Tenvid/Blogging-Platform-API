@@ -15,7 +15,7 @@ This API is made for communicating with a Database that contains Blog Posts. Eac
 - Adminer as DBMS
 
 ## To-do's
-- [ ] Api which can communicate with DB
+- [x] Api which can communicate with DB
 - [ ] Refine DB models
 - [ ] Manage user authenticacion
 ...
